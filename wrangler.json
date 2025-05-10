@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "winter-credit-5535",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "00f274c8-b7c3-490e-900d-ead2a0b81a9b",
+      "database_name": "damp-thunder-6a9c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
